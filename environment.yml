@@ -1,0 +1,10 @@
+name: demo_pci
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pip:
+    - matplotlib
+    - bitarray
