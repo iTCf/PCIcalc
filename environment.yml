@@ -2,7 +2,7 @@ name: demo_pci
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python 2.7
   - numpy
   - scipy
   - matplotlib
